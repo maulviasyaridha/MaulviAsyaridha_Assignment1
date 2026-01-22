@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-21T12:21:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237468002",
+        "highway": "bus_stop",
+        "name": "Bemos to Lembar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1294102,
+          -8.5928271
+        ]
+      },
+      "id": "node/4237468002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237507190",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bemos to Senggigi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0768387,
+          -8.5659907
+        ]
+      },
+      "id": "node/4237507190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796244721",
+        "highway": "bus_stop",
+        "name:en": "Bemos to Pemenang (Bangsal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1099534,
+          -8.5593281
+        ]
+      },
+      "id": "node/4796244721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5463888521",
+        "highway": "bus_stop",
+        "name:en": "Minibus to Bangsal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1296682,
+          -8.5897824
+        ]
+      },
+      "id": "node/5463888521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6850948185",
+        "highway": "bus_stop",
+        "name:en": "Bus to Bangsal 20k"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1543568,
+          -8.5955828
+        ]
+      },
+      "id": "node/6850948185"
+    }
+  ]
+}
